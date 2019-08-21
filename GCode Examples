@@ -1,0 +1,10 @@
+;;;;;G28 – Perform Homing Routine
+
+G28 ; home all axes (X, Y, and Z)
+
+G28 X Y ; home X and Y axes
+
+G28 Z ; home Z axis only
+
+;;;;;G90 and G91 – Set Positioning Mode
+
